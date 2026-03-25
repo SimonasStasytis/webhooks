@@ -1,0 +1,7 @@
+The program must:
+
+Create streamlit server (documentation can be found in docs folder) that:
+- Records the users voice until the user stops speaking.
+- Send the recording to the link defined in "audio_listener_link.txt" file (to be created).
+- Wait for the webhook to respond with another audio file.
+- Play the response audio
